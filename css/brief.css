@@ -1,0 +1,19 @@
+/* .rev{
+    width: 86.5%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 90px;
+}
+.line-bottom{
+    border-bottom: 2px solid #000;
+    padding: 15px;
+} */
+/* .container_lanhdao{
+    display: block;
+    box-sizing: border-box;
+}
+.lanh_dao_cc{
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+} */
