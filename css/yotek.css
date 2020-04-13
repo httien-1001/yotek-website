@@ -191,6 +191,9 @@
     /* grid-template-rows: repeat(2,1fr); */
     grid-gap: 20px;
 }
+.hang_muc_to h2{
+    text-transform: uppercase;
+}
 .hang_muc_text h3{
     padding-top: 8px;
     font-size: 20px;
